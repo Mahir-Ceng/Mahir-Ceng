@@ -1,6 +1,6 @@
 # Hi, I'm Mahir 👋
 
-### Computer Engineering Student
+### Computer Engineering Graduate
 
 I'm passionate about software development and exploring how technology can solve real-world problems.
 

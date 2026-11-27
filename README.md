@@ -11,7 +11,15 @@ I'm passionate about software development and exploring how technology can solve
 
 ### Technologies
 
+**Programming Language**
 - Python
+- JavaScript
+
+**Web Development**
+- HTML
+- CSS
+
+**Development Tools**
 - Git
 - GitHub
 

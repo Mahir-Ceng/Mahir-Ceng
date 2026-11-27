@@ -18,7 +18,8 @@ I'm passionate about software development and exploring how technology can solve
 ### Projects
 
 - [Human vs AI Project](https://github.com/Mahir-Ceng/human_vs_ai_project)
-
+- [Professional_Calculator](https://github.com/Mahir-Ceng/professional-calculator)
+- [My_Portfolio](https://github.com/Mahir-Ceng/portfolio)
 ---
 
 *Always learning. Always building.*
